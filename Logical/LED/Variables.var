@@ -1,0 +1,7 @@
+VAR
+	Led : LedStateMachine;
+	Led1 : BOOL;
+	Led2 : BOOL;
+	Led3 : BOOL;
+	Led4 : BOOL;
+END_VAR
